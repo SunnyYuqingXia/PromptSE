@@ -1,4 +1,4 @@
-# PromptSE
+# PromptSE (To appear soon)
 
 # Data
 ##  The labeled drug-side effect dataset
